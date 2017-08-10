@@ -1,0 +1,1 @@
+This is a mini-project part of the Odin web dev course.  The assignment is to create the Google homepage. 
